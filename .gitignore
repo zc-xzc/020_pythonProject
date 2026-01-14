@@ -1,0 +1,21 @@
+# Python虚拟环境
+venv/
+env/
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# IDE配置文件（PyCharm/VSCode等）
+.idea/
+.vscode/
+*.swp
+*.swo
+# 系统临时文件
+.DS_Store
+Thumbs.db
+# 日志文件
+*.log
+# 压缩包
+*.zip
+*.rar
